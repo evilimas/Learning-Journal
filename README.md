@@ -1,4 +1,4 @@
-**Learning Journal - Scrimba Solo Project**
+##**Learning Journal - Scrimba Solo Project**
 
 This repository contains the codebase for the Learning Journal, a solo project created as part of the Scrimba Frontend Developer Career Path. The Learning Journal serves as a platform for documenting the author's learning journey and sharing insights with the community.
 
