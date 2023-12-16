@@ -14,3 +14,7 @@
 ----------------------
 5.display other recent posts when clicked view more.
 6.responsive navigation displaying a hamburger menu on small screens.
+
+Figma File---
+
+https://www.figma.com/file/hE5klIn1AEQ9XWZWmurs7y/Learning-Journal%2FBlog?type=design&node-id=0-1&mode=design&t=Gm9ZfbvyJiGQ3hLU-0
